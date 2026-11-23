@@ -1,0 +1,6 @@
+{
+  "name": "ZimRetail POS",
+  "description": "Offline-first POS and Stock Management Web App for retail shops in Zimbabwe with USD pricing, Start/End of Day Z-Reports, Stocktake, and ESC/POS Bluetooth receipt printing.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
